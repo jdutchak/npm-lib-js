@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+node_modules/
+public/
+temp/
+logs/
+lib/
+dist/
+.vscode/settings.json
+coverage
+*.log
+*.tgz
+package-lock.json
+yarn.lock
+.npmrc
+.DS_Store
